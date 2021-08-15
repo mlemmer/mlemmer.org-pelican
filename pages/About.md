@@ -1,4 +1,4 @@
-Title: About
+Title: A bit about myself
 Category: About
 Tags: Art History, PhD, Textiles, Digital Humanities, FOSS, Open Access, FOSS and Crafts
 Slug: About

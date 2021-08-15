@@ -1,14 +1,10 @@
-Title: Dissertation
+Title: Women and Wool Working in the Roman Empire
 Category: Dissertation
 Tags: Art History, Archaeology, Material Culture, Women's History, PhD, Textiles, Open Access
 Slug: Dissertation
 Author: Dr. Morgan Lemmer-Webber
 
-# Women and Wool Working in the Roman Empire
-
-## Dr. Morgan A Lemmer Webber, University of Wisconsin Madison, Spring 2021 
-
-### Abstract
+**Abstract**
 
 This dissertation looks at women’s roles in textile production in the Roman
 Empire, from the first through third centuries C.E., utilizing archaeological,
@@ -22,12 +18,3 @@ study uses the cottage industry model to explore the role of women’s labor in 
 Roman textile industry, exploring the links between domestic production and
 commercial distribution.
 
-### License
-
-Released under the Creative Commons Attribution-ShareAlike 4.0 International license by Morgan Lemmer-Webber 2021
-
-###Links to Full Text
-
-* [Full Text PDF]({static}/pdfs/Dissertation.pdf)
-* HTML
-* Doccumentation
