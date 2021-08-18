@@ -26,7 +26,7 @@ commercial distribution.
 
 Released under the Creative Commons Attribution-ShareAlike 4.0 International license by Morgan Lemmer-Webber 2021
 
-###Links to Full Text
+### Links to Full Text
 
 * [Full Text PDF (official version)]({static}/dissertation/Dissertation-official.pdf)
 * [Full Text PDF (latest version)]({static}/dissertation/Dissertation.pdf)
