@@ -28,6 +28,8 @@ Released under the Creative Commons Attribution-ShareAlike 4.0 International lic
 
 ###Links to Full Text
 
-* [Full Text PDF]({static}/pdfs/Dissertation.pdf)
-* HTML
-* Doccumentation
+* [Full Text PDF (official version)]({static}/dissertation/Dissertation-official.pdf)
+* [Full Text PDF (latest version)]({static}/dissertation/Dissertation.pdf)
+* [ODT (latest version)]({static}/dissertation/Dissertation.odt)
+* HTML (coming soon)
+* Source (coming soon)

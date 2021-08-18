@@ -33,5 +33,5 @@ DEFAULT_PAGINATION = 10
 
 STATIC_PATHS  = [
     "images",
-    "pdfs",
+    "dissertation",
 ]
