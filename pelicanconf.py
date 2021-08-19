@@ -31,6 +31,10 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+ARTICLE_URL = "blog/{slug}/"
+ARTICLE_SAVE_AS = "blog/{slug}/index.html"
+
+
 STATIC_PATHS  = [
     "images",
     "dissertation",
