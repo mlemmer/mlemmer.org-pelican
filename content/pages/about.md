@@ -1,7 +1,7 @@
 Title: About
 Category: About
 Tags: Art History, PhD, Textiles, Digital Humanities, FOSS, Open Access, FOSS and Crafts
-Slug: About
+Slug: about
 
 ![Morgan standing in front of a bookshelf]({static}/images/IMG_20210806_164311720scaled.jpg)
 

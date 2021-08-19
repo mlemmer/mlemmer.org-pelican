@@ -1,7 +1,7 @@
 Title: Dissertation
 Category: Dissertation
 Tags: Art History, Archaeology, Material Culture, Women's History, PhD, Textiles, Open Access
-Slug: Dissertation
+Slug: dissertation
 Author: Dr. Morgan Lemmer-Webber
 
 # Women and Wool Working in the Roman Empire

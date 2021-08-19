@@ -2,6 +2,7 @@ Title: Same page, now in Pelican!
 Date: 2021-07-21
 Tags: pelican, frog
 Slug: migration
+Category: Blog
 
 I first set up this website in 2018 and have barely updated it in the interim. Fresh off of our Digital Humanities workshops, which used scribble and racket, I decided to use frog (racket's static site generator) because the the content could be formatted using scribble. 
 
