@@ -74,8 +74,8 @@ publish:
 
 upload:
 	rsync --delete --recursive --verbose output/ mlemweb@neo.dustycloud.org:/srv/mlemmer.org/content/
-	echo "*** By the way, here's git status:"
-	echo ""
-	git status
+	@echo "*** By the way, here's git status:"
+	@echo ""
+	@git status
 
 .PHONY: html help clean regenerate serve serve-global devserver publish upload
