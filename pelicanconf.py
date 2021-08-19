@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Morgan Lemmer-Webber'
-SITENAME = 'mlemmer.org'
-SITEURL = ''
+SITENAME = 'Morgan\'s Crafty Corner'
+# SITEURL = ''
 
 PATH = 'content'
 
