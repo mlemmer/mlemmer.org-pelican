@@ -73,7 +73,7 @@ publish:
 
 
 upload:
-	rsync --delete --recursive --verbose output/ mlemweb@neo.dustycloud.org:/srv/mlemmer.org/content/
+	rsync --delete --recursive --verbose output/ mlemweb@neo.dustycloud.org:/srv/mlemmer.org/site/
 	@echo "*** By the way, here's git status:"
 	@echo ""
 	@git status
