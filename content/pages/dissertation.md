@@ -39,6 +39,8 @@ My dissertation is done in
 [Scribble](https://docs.racket-lang.org/scribble/),
 which is a combination programming and markdup language built on top of
 [Racket](https://racket-lang.org/).
+The non-scribble Racket files are released under
+[Apache v2](https://www.apache.org/licenses/LICENSE-2.0.html).
 
 You can [browse the source files](https://mlemmer.org/git/dissertation/)
 or even check out and compile the dissertation yourself by checking it
