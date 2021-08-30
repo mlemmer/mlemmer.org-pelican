@@ -24,7 +24,7 @@ commercial distribution.
 
 ### License
 
-Released under the Creative Commons Attribution-ShareAlike 4.0 International license by Morgan Lemmer-Webber 2021
+Dissertation documents and text are released under the Creative Commons Attribution-ShareAlike 4.0 International license by Morgan Lemmer-Webber 2021.
 
 ### Links to Full Text
 
