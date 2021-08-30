@@ -39,5 +39,5 @@ PAGE_SAVE_AS = "{slug}/index.html"
 
 STATIC_PATHS  = [
     "images",
-    "dissertation",
+    "dissertation"
 ]
