@@ -60,19 +60,19 @@ These are really more of tutorials than patterns. I don’t have all of your mea
 
 - Measure length:
     - Figure out where on your waist you want the skirt to sit (high-rise, waist, hips) and how long you want it to go (mini, knee-length, tea length, full length). Then use your tape measure or string to measure the length from where you want your waist to be to where you want the skirt to fall on your leg. This step is much easier if you've got an extra person to give you a hand.
-    - Add ~1.5" to make a chanel for the elastic to fit into at the waist.
-    - Add at least double your seam allowance to do a double fold hem so it doesn't frey. If you want a bit more leeway, leave a larger amount of space on the length because you can always hem it up, but once it's cut there's only so much you can do to make it longer. 
+    - Add ~1.5" to make a channel for the elastic to fit into at the waist.
+    - Add at least double your seam allowance to do a double fold hem so it doesn't fray. If you want a bit more leeway, leave a larger amount of space on the length because you can always hem it up, but once it's cut there's only so much you can do to make it longer. 
     - Example: You want a full-length skirt, the distance from your waist to your ankle is 46", and you're doing 1/4" seams (x2 for the double fold hem), you want to cut your length to 48"
 
 ![Christine measuring and marking her fabric]({static}/images/MeasuringFabric2.jpg)
 
 - Prepare and cut your fabric:
     - Pay attention to your fabric pattern. Is there a design that needs to be facing a specific direction? Keep that in mind when you're laying out your pattern if you don't want your dogs/cats/dinosaurs/whatever to be upside down or sideways.
-    - This skirt is essentially a tube of fabric with an elastic waistband drawing it together at the top. If the pattern of your fabric and the length of the skirt you need allow it, you could cut one piece to the size of your waistband wide and the length of your skirt high. If the pattern of the fabric or the length of the skirt do not allow this, you may need to cut two pannels to accommodate your needs
+    - This skirt is essentially a tube of fabric with an elastic waistband drawing it together at the top. If the pattern of your fabric and the length of the skirt you need allow it, you could cut one piece to the size of your waistband wide and the length of your skirt high. If the pattern of the fabric or the length of the skirt do not allow this, you may need to cut two panels to accommodate your needs
     - Example 1: You are using 54" wide fabric and the pattern does not have a distinct orientation. You can cut the fabric to the waist size of 33.5" and then cut or hem to length from the 54". This means you will have a skirt made of a single piece of fabric
     - Example 2: You are using 45" wide fabric and the pattern has a distinct top and bottom. You would cut two panels to the 46" length of the skirt. You will then cut one or both of the panels so that together they add up to the 33.5" waist size.
     - Line up pattern so that right sides (i.e. the 'front' of your fabric) are facing each other. 
-    - If you are using one piece of fabric, fold in half and pin the side seam. If you are using two piecces of fabric, stack the two rectangles on top of each other and pin your two side seams.
+    - If you are using one piece of fabric, fold in half and pin the side seam. If you are using two pieces of fabric, stack the two rectangles on top of each other and pin your two side seams.
 
 ![Christine pinning her pattern together with right sides facing]({static}/images/RightSidesFacing2.jpg)
 
@@ -87,7 +87,7 @@ These are really more of tutorials than patterns. I don’t have all of your mea
 
 ![Elastic on top of a cut index card to demonstrate a hem template]({static}/images/WaistbandTemplate.jpg)
 
-- Guage the size of waistband by wraping the elastic around your waist and tightening it to the level that seems comfortable to keep the skirt where you want it. Leave a 1" allowance and cut to size.
+- Gauge the size of waistband by wrapping the elastic around your waist and tightening it to the level that seems comfortable to keep the skirt where you want it. Leave a 1" allowance and cut to size.
 - Use a flat pin to attach one end of elastic to your skirt panel outside of the gap in your waistband seam. Attach the safety pin to the other end of your elastic, feed it through the gap in your waistband seam. Use the safety pin to feed the waistband through the channel until it emerges again through the gap.
 
 ![Elastic pinned to hem, then fed through one side of the waistband and emerging through the other with the safety pin still attached]({static}/images/Waistband1.jpg)
@@ -101,7 +101,7 @@ These are really more of tutorials than patterns. I don’t have all of your mea
 - Even out the distribution of gathers in the waistband so that it is even across the skirt. Start by stretching the waistband as far as it will extend, then manually even out any additional areas where necessary.
 
 ## Try it on!
-- If you are making the skirt for yourself or someone in the vacinity, this is a good time to turn the skirt right side out and try it on to guage the fit of the waist and the length of the skirt.
+- If you are making the skirt for yourself or someone in the vicinity, this is a good time to turn the skirt right side out and try it on to gauge the fit of the waist and the length of the skirt.
 
 ## Double Hem the bottom of skirt
 - Fold hem once to seam allowance, run a straight stitch to secure.
